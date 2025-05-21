@@ -73,7 +73,7 @@ export const AboutSection = () => {
 
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Project Management</h4>
-                  <p className="text-muted-foreground">
+                  <p className="text-muted-foreground ">
                     Practicing how to manage and organize small projects from planning to completion using basic agile principles and version control (Git).
 
 
